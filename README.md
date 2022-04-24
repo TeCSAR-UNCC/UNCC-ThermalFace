@@ -1,5 +1,5 @@
 
-# UNCC-ThermalFace
+# Charlotte-ThermalFace
 
 This repository is a public dataset of facial thermal images “Charlotte”, which is available to the scientific community for research purposes. The dataset was collected by researchers at UNC Charlotte. As Figure A shows through some sample images, our dataset includes thermal images of the same subjects in various thermal and physical conditions, including the environmental temperature, distance from the camera, and head positions. 
 
